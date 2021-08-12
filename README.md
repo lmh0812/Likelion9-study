@@ -8,8 +8,7 @@ Python 및 Django
 ## 과제 제출
 | 1주차 | 2주차 | 
 | --- | --- | 
-| [1주차 과제: Python](https://github.com/lmh0812/Likelion9-study/issues/1) |
-[2주차 과제: Python심화](https://github.com/lmh0812/Likelion9-study/issues/3) |
+| [1주차 과제: Python](https://github.com/lmh0812/Likelion9-study/issues/1) | [2주차 과제: Python심화](https://github.com/lmh0812/Likelion9-study/issues/3) |
 
 ## 스터디 과제 제출 현황
 
