@@ -14,5 +14,5 @@ Python 및 Django
 
 | 참여자 (2) | 1주차 | 2주차 |
 | --- | --- | --- |
-| 혜인님 |:white_check_mark:| |
-| 창혁님 |:white_check_mark:| |
+| 혜인님 |:white_check_mark:|:white_check_mark:|
+| 창혁님 |:white_check_mark:|:white_check_mark:|
